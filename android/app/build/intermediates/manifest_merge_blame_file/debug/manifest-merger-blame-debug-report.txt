@@ -9,90 +9,90 @@
 9        android:targetSdkVersion="30" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/ufukyldrm/Cassadora/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/ufukyldrm/Cassadora/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/ufukyldrm/Casadora/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/ufukyldrm/Casadora/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" /> <!-- Required -->
-12-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.CAMERA" /> <!-- Include this only if you are planning to use the camera roll -->
-13-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:6:1-61
-13-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:6:18-58
+13-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:6:1-61
+13-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:6:18-58
 14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:9:1-76
-14-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:9:18-73
+14-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:9:1-76
+14-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:9:18-73
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:10:1-77
-15-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:10:18-74
+15-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:10:1-77
+15-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:10:18-74
 16    <uses-permission android:name="android.permission.VIBRATE" /> <!-- Include this only if you are planning to use the microphone for video recording -->
-16-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:11:1-61
-16-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:11:18-59
+16-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:11:1-61
+16-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:11:18-59
 17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-17-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:13:1-66
-17-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:13:18-64
+17-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:13:1-66
+17-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:13:18-64
 18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 18-->[com.facebook.flipper:flipper:0.99.0] /Users/ufukyldrm/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
 18-->[com.facebook.flipper:flipper:0.99.0] /Users/ufukyldrm/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
 19
 20    <uses-feature
-20-->[:react-native-camera] /Users/ufukyldrm/Cassadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+20-->[:react-native-camera] /Users/ufukyldrm/Casadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
 21        android:name="android.hardware.camera"
-21-->[:react-native-camera] /Users/ufukyldrm/Cassadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:12:9-47
+21-->[:react-native-camera] /Users/ufukyldrm/Casadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:12:9-47
 22        android:required="false" />
-22-->[:react-native-camera] /Users/ufukyldrm/Cassadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:13:9-33
+22-->[:react-native-camera] /Users/ufukyldrm/Casadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:13:9-33
 23    <uses-feature
-23-->[:react-native-camera] /Users/ufukyldrm/Cassadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+23-->[:react-native-camera] /Users/ufukyldrm/Casadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
 24        android:name="android.hardware.camera.autofocus"
-24-->[:react-native-camera] /Users/ufukyldrm/Cassadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:15:9-57
+24-->[:react-native-camera] /Users/ufukyldrm/Casadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:15:9-57
 25        android:required="false" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-25-->[:react-native-camera] /Users/ufukyldrm/Cassadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:16:9-33
+25-->[:react-native-camera] /Users/ufukyldrm/Casadora/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:16:9-33
 26    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 27-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ufukyldrm/.gradle/caches/transforms-3/a0e40bdc1ba615c480eeb4e284f3d2c5/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
 27-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ufukyldrm/.gradle/caches/transforms-3/a0e40bdc1ba615c480eeb4e284f3d2c5/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
 28
 29    <application
-29-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:15:5-35:19
+29-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:15:5-35:19
 30        android:name="com.selectprice.MainApplication"
-30-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:16:7-38
+30-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:16:7-38
 31        android:allowBackup="false"
-31-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:20:7-34
+31-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:20:7-34
 32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 32-->[androidx.core:core:1.6.0] /Users/ufukyldrm/.gradle/caches/transforms-3/5efa136d6b7a2c594211658eacead3c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 33        android:debuggable="true"
 34        android:icon="@mipmap/ic_launcher"
-34-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:18:7-41
+34-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:18:7-41
 35        android:label="@string/app_name"
-35-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:17:7-39
+35-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:17:7-39
 36        android:roundIcon="@mipmap/ic_launcher_round"
-36-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:19:7-52
+36-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:19:7-52
 37        android:theme="@style/AppTheme"
-37-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:22:7-38
+37-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:22:7-38
 38        android:usesCleartextTraffic="true" >
-38-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:21:7-42
+38-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:21:7-42
 39        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-39-->/Users/ufukyldrm/Cassadora/android/app/src/debug/AndroidManifest.xml:11:9-86
-39-->/Users/ufukyldrm/Cassadora/android/app/src/debug/AndroidManifest.xml:11:19-83
+39-->/Users/ufukyldrm/Casadora/android/app/src/debug/AndroidManifest.xml:11:9-86
+39-->/Users/ufukyldrm/Casadora/android/app/src/debug/AndroidManifest.xml:11:19-83
 40        <activity
-40-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:24:7-34:18
+40-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:24:7-34:18
 41            android:name="com.selectprice.MainActivity"
-41-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:25:9-37
+41-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:25:9-37
 42            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-42-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:27:9-86
+42-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:27:9-86
 43            android:label="@string/app_name"
-43-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:26:9-41
+43-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:26:9-41
 44            android:launchMode="singleTask"
-44-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:28:9-40
+44-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:28:9-40
 45            android:windowSoftInputMode="adjustResize" >
-45-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:29:9-51
+45-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:29:9-51
 46            <intent-filter>
-46-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:30:9-33:25
+46-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:30:9-33:25
 47                <action android:name="android.intent.action.MAIN" />
-47-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:31:13-65
-47-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:31:21-62
+47-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:31:13-65
+47-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:31:21-62
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:32:13-73
-49-->/Users/ufukyldrm/Cassadora/android/app/src/main/AndroidManifest.xml:32:23-70
+49-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:32:13-73
+49-->/Users/ufukyldrm/Casadora/android/app/src/main/AndroidManifest.xml:32:23-70
 50            </intent-filter>
 51        </activity>
 52

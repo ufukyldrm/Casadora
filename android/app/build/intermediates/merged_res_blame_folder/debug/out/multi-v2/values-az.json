@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ufukyldrm/Cassadora/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "outputFile": "/Users/ufukyldrm/Casadora/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
             "map": [
                 {
                     "source": "/Users/ufukyldrm/.gradle/caches/transforms-3/060dff7644d80534b68ae20379930fc6/transformed/jetified-play-services-basement-17.6.0/res/values-az/values.xml",

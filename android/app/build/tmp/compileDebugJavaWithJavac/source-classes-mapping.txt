@@ -1,0 +1,14 @@
+com/selectprice/ReactNativeFlipper.java
+ com.selectprice.ReactNativeFlipper
+ com.selectprice.ReactNativeFlipper$1
+ com.selectprice.ReactNativeFlipper$2
+ com.selectprice.ReactNativeFlipper$2$1
+com/selectprice/MainActivity.java
+ com.selectprice.MainActivity
+com/selectprice/MainApplication.java
+ com.selectprice.MainApplication
+ com.selectprice.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/selectprice/BuildConfig.java
+ com.selectprice.BuildConfig

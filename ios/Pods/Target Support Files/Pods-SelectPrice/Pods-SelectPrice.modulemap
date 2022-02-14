@@ -1,0 +1,6 @@
+module Pods_SelectPrice {
+  umbrella header "Pods-SelectPrice-umbrella.h"
+
+  export *
+  module * { export * }
+}
